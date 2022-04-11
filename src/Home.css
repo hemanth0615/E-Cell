@@ -319,12 +319,25 @@ body 5 css
     line-height: 27px;
     color: #FFFFFF; 
 }
+.blogs_txt{
+    position: absolute;
+    width: 819px;
+    height: 69px;
+    left: 15%;
+    top: 15%;
+    font-family: PT Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 36px;
+    color: rgba(255, 255, 255, 0.8);
+}
 .blog1{
     position: absolute;
     width: 738px;
     height: 403px;
     left: 15%;
-    top: 20%;
+    top: 35%;
     background: #0D0D0D;
 }
 .blog1_pic{
@@ -367,7 +380,7 @@ body 5 css
     width: 411px;
     height: 403px;
     left: 65%;
-    top: 20%;
+    top: 35%;
     background: #0D0D0D;
 }
 /*
@@ -395,24 +408,24 @@ body 6 css
 }
 .member1{
     position: absolute;
-    width: 10%;
-    height: 20%;
-    top: 15%;
-    left: 65%;
+    width: 120px;
+    height: 100px;
+    top: 20%;
+    left: 70%;
 }
 .member2 {
     position: absolute;
-    width: 10%;
-    height: 20%;
-    top: 37%;
-    left: 77%;
+    width: 120px;
+    height: 100px;
+    top: 40%;
+    left: 80%;
 }
 .member3 {
     position: absolute;
-    width: 10%;
-    height: 20%;
-    top: 59%;
-    left: 89%;
+    width: 120px;
+    height: 100px;
+    top: 60%;
+    left: 90%;
 }
 .team_txt{
     position: absolute;

@@ -33,11 +33,11 @@ function Home(){
             <div class='body1'>
                 <p class='about'>ABOUT</p>
                 <p class='txt1'>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu quis sagittis tristique eget eget tellus arcu neque, porttitor. Sed est vel at in a accumsan in diam. Pharetra, ultricies feugiat ipsum est ut d.
+                    E-Cell IARE is a platform to encourage startups from young minds. A place to nurture ideas to a fully-fledged startup with all the essential resources and necessary mentorship. A rostrum to compete on ideas from minds across the nation. 
                 </p>
                 <img class='about_image' src={Event_Image}  alt='' />
                 <p class='txt2'>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu quis sagittis tristique eget eget tellus arcu neque, porttitor. Sed est vel at in a accumsan in diam. Pharetra, ultricies feugiat ipsum est ut d.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu quis sagittis tristique eget eltricies feugiat ipsum est ut d.
+                    E-Cell IARE is a platform to encourage startups from young minds. A place to nurture ideas to a fully-fledged startup with all the essential resources and necessary mentorship. A rostrum to compete on ideas from minds across the nation. 
                 </p>
             </div>
             <div class='body3'>
@@ -48,7 +48,7 @@ function Home(){
             </div>
             <div class='body4'>
                 <p class='events'>EVENTS</p>
-                <p class='events_txt'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mi natoque sit egestas tempor aliquet morbi aenea</p>
+                <p class='events_txt'>We conduct a plethora of events comprising of JAM, speaker sessions, brainstorming sessions and much more to develop overall skills. The events aim for active participation and engagement.</p>
                 <div class='event1'>
                     <img class='event1_pic' src={Event_Image} alt='' />
                     <p class="event1_name">Lorem ipsuadipiscing </p>
@@ -70,6 +70,7 @@ function Home(){
             </div>
             <div class='body5'>
                 <p class='blogs'>BLOGS</p>
+                <p class="blogs_txt">The stakes are higher every minute. We keep you updated with the latest trends in the world full of million-dollar ideas. Head up to our blogs to find out more.</p>
                 <div class='blog1'>
                     <img class='blog1_pic' src={Event_Image} alt='' />
                     <p class="blog1_name">Lorem ipsuadipiscing </p>
